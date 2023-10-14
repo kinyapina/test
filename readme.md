@@ -3,6 +3,6 @@
 
 Главные герои мультсериала это брат с сестрой.
 
-!⁠[Мейбл]​([URL картинки](https://upload.wikimedia.org/wikipedia/ru/4/4b/Mabel_Pines.png "Подсказка")
+!⁠[Мейбл]​(https://upload.wikimedia.org/wikipedia/ru/4/4b/Mabel_Pines.png "Мейбл")
 
-!⁠[Диппер]​([URL картинки]([https://upload.wikimedia.org/wikipedia/ru/4/4b/Mabel_Pines.png](https://upload.wikimedia.org/wikipedia/ru/1/15/Dipper_Pines.png "Подсказка")
+!⁠[Диппер]​(https://upload.wikimedia.org/wikipedia/ru/1/15/Dipper_Pines.png "Диппер")
